@@ -1,0 +1,4 @@
+tasks:
+  - name: bun issue 1605 repro
+    command: ./repro.sh 
+
