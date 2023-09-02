@@ -1,5 +1,7 @@
 # repro for https://github.com/oven-sh/bun/issues/1605
 
+wanted to reproduce it, but the `bun test` process never terminates, so can't
+
 just run
 
 ```shell
